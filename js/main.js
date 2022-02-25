@@ -76,8 +76,6 @@ let evaluateCollection = (collection) => {
 
 
 
-
-
 let calculateValues = (theValue, operator) => {
     let val1 = Number(theValue[0]);
     let val2 = Number(theValue[1]);
